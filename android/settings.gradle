@@ -1,0 +1,3 @@
+rootProject.name = 'MoGreenConcept'
+
+include ':app'
